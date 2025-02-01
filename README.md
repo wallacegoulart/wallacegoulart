@@ -1,8 +1,6 @@
-
 ## Bem Vindo!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallacegoulart&show_icons=true&theme=dracula)
-
 
 ## Tecnologias
 <div style="display: flex; justify-content: center;"><br/>
@@ -16,7 +14,8 @@
 </div><br/>
 <div  style="display: flex; justify-content: center;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacegoulart&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacegoulart&langs_count=10&size_weight=0.5&count_weight=0.5)
+
 </div>
 
 ## Contatos
