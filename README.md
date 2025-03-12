@@ -28,5 +28,3 @@
 <a href="mailto:wallacegc@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-
-#### Obrigado por visitar meu perfil! Se você gostou do que viu, não hesite em entrar em contato. Vamos colaborar e criar algo incrível juntos!
