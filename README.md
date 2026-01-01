@@ -1,17 +1,20 @@
-# My Stats in Github
+# 👋 Olá! Eu sou o Wallace Goulart
 
-<a href="https://github.com/anuraghazra/convoychat">
-    <img height=250 src="https://github-readme-stats.vercel.app/api?username=wallacegoulart&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacegoulart&layout=donut&langs_count=32&show_icons=true&theme=chartreuse-dark"/>
-</a>
+### 🚀 Engenheiro de Dados | Especialista em Stream Processing
+
+Minha jornada é focada na construção de sistemas de dados em tempo real e de alta performance. Atualmente, estou me especializando nas seguintes tecnologias:
+
+* **Apache Kafka:** Construção e administração de clusters Kafka robustos, com foco em alta disponibilidade e tolerância a falhas.
+* **Apache Flink:** Desenvolvimento de pipelines de processamento de fluxo para cálculos complexos, janelamento e garantia de consistência de dados (*exactly-once*).
+* **Confluent Cloud:** Uso de serviços gerenciados de Kafka para otimização de infraestrutura em ambientes de nuvem (AWS/GCP).
+* **Python/Java:** Implementação de Produtores e Consumidores resilientes para integração de sistemas.
 
 ---
 
-</div>
-
 ## Contatos
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/wallacegoulart/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -21,3 +24,5 @@
 <a href="mailto:wallacegc@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+
+</div>
